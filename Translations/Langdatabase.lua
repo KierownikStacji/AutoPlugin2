@@ -7,5 +7,5 @@ Online_Langs = {
 { id =  "FRENCH",		version = "01.07",		author =  "Chronoss09" },
 { id =  "GERMAN",		version = "01.04",		author =  "Schn1ek3" },
 { id =  "RUSSIAN",		version = "01.05",		author =  "Yoti" },
-{ id =  "POLISH",		version = "01.03",		author =  "Gameplay World's" }
+{ id =  "POLISH",		version = "01.04",		author =  "Gameplay World's" }
 }
