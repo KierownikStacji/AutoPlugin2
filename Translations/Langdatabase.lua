@@ -7,6 +7,6 @@ Online_Langs = {
 { id =  "FRENCH",		version = "01.40",		author =  "Chronoss09" },
 { id =  "GERMAN",		version = "01.25",		author =  "Schn1ek3" },
 { id =  "RUSSIAN",		version = "01.38",		author =  "Yoti" },
-{ id =  "POLISH",		version = "01.25",		author =  "Gameplay World's" },
+{ id =  "POLISH",		version = "01.40",		author =  "PlayStation Tech" },
 { id =  "PORTUGUESE_BR",version = "01.12",		author =  "allanaln2009" },
 }
